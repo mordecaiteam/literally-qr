@@ -1,6 +1,6 @@
 
 import { Link } from "react-router-dom";
-import mordecaiLogo from "../assets/mordecai-logo.png";
+import mordecaiLogo from "../assets/mordecAI-logo.png";
 
 export default function Footer() {
   return (
